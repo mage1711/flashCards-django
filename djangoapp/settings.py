@@ -24,14 +24,14 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["206.189.58.188"]
 SECRET_KEY = os.environ.get("SECRET_KEY",default="foo")
 
 # SECURITY WARNING: don't run with debug turned on in production!
 # DEBUG = int(os.environ.get("DEBUG", default=0))
 #
-ALLOWED_HOSTS = os.environ.get("ALLOWED_HOSTS", "").split(" ")
-ALLOWED_HOSTS = [] if not any(ALLOWED_HOSTS) else ALLOWED_HOSTS
+# ALLOWED_HOSTS = os.environ.get("ALLOWED_HOSTS", "").split(" ")
+# ALLOWED_HOSTS = [] if not any(ALLOWED_HOSTS) else ALLOWED_HOSTS
 
 
 # Application definition
