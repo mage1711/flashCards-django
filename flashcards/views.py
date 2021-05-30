@@ -60,7 +60,7 @@ def signUp(request):
             emailIsUnique = not (User.objects.filter(email=email).exists())
             if password1 == password2 and usernameIsUnique and emailIsUnique:
                 User.objects.create_user(username= username, email=email, password=password1).save()
-                return redirect('index')
+                return redirect('login')
     context = {}
     return render(request,'signup.html',context)
 
