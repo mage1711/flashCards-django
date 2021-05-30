@@ -87,7 +87,7 @@ This app was Buit to give users the ability to share flash cards with each other
 
 ### Built With
 
-* [Django](https://www.djangoproject.com/)<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png " alt="Dajngo.logo" width="25" style="margin-left: 10px;"/>
+* [Django](https://www.djangoproject.com/)<img src="https://abotyim.github.io/images/posts/django.png" alt="Dajngo.logo" width="25" style="margin-left: 10px;"/>
 * [PostgreSQL](https://www.postgresql.org/)<img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg" alt="PostgreSQL.logo" width="30" style="margin-left: 5px;"/>
 * [Docker](https://www.docker.com/)<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker.logo" width="25" style="margin-left: 10px;"/>
 * [Nginx](https://www.nginx.com/)<img src="https://cdn.wpmentor.com/wp-content/uploads/2019/05/Nginx-1.png" alt="Nginx.logo" width="20" style="margin-left: 10px;"/>
