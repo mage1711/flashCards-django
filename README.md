@@ -38,7 +38,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This app was Buit to give users the ability to share flash cards with each other_app sample login:
+This app was Buit to give users the ability to share flash cards with each other
+app sample login:
 * email: test@test.com
 * password: test1234
 
